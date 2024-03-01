@@ -47,3 +47,5 @@ slug: the-best-laptops-for-developers-in-2024
 ```
 
 Upload the image to `/public/images` and you're good to go.
+
+## https://www.youtube.com/watch?v=XoIHKO6AkoM&t=1371s
